@@ -1,0 +1,3 @@
+[submodule "3rd/PEGTL"]
+	path = 3rd/PEGTL
+	url = https://github.com/taocpp/PEGTL.git
